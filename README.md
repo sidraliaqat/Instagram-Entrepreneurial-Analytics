@@ -37,4 +37,3 @@ A core part of this research was comparing Human intuition against 5 LLMs (ChatG
 
 ## 👩‍💻 Author
 **Sidra Liaqat**  
-*Data Analytics Student - Spring 2026*
